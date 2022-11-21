@@ -1,0 +1,78 @@
+.logos{
+    float: left;
+    margin-left: 12%;
+    margin-bottom: 15%;
+}
+.escrita{
+    color: #fff;
+    font-size: small;
+    margin-left: 13%;
+    width: 20vw;
+    margin-top: 15%;
+}
+.escritas{
+    color: #fff;
+    font-size: small;
+    margin-left: 2%;
+    width: 20vw;
+    margin-top: 20%;
+}
+.escritaa{
+    color: #fff;
+    font-size: small;
+    margin-left: 2%;
+    width: 20vw;
+    margin-top: 15%;
+}
+input{
+    width: 69vw;
+    height: 4vh;
+    border-radius:20px;
+    margin-left: 7%;
+    border: #fff solid 2px;
+    margin-left: 10%;
+    font-size: large;
+    float: left;
+    background-color: #B08C00;
+}
+.lupa{
+    width: 7vw;
+    margin-left: -9%;
+    float: left;
+    margin-top: 1.5%;
+}
+.pessoas{
+    float: left;
+    margin-top: 10%;
+}
+.Nomes{
+    margin-left: 30%;
+    color: #fff;
+    font-size: large;
+}
+#menu{
+    width: 100vw;
+    margin-left: -2%;
+    height: 10vh;
+    background-color: #B08C00;
+    margin-top: 200%;
+    margin-bottom: -10%;
+}
+.icon{
+    float: left;
+    background-color: #B08C00;
+    margin-left: 10%;
+    font-size: small;
+    margin-top: 3%;
+    height: 5vh;
+}
+.es{
+    background-color: #B08C00;
+    margin-left: 20%;
+    color: #fff;
+}
+.est{
+    background-color: #B08C00;
+    margin-left: 2%;
+    color: #fff;
+}
