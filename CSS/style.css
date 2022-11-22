@@ -1,0 +1,116 @@
+body{
+    background-color: #242C70;
+}
+#img{
+    width: 22vw;
+    margin-left: 40%;
+    margin-top: 40%;
+    margin-bottom: 16%;
+}
+#im{
+    width: 22vw;
+    margin-left: 40%;
+    margin-top: 13%;
+    margin-bottom: 16%;
+}
+.btn{
+    padding: 2%;
+    width: 55vw;
+    height: 5vh;
+    margin-left: 23%;
+    margin-top: 5%;
+    border-radius: 10px;
+    background-color:  #B08C00;
+    color:#fff;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+#botao{
+    margin-top: -15%;
+    margin-top: 3%;
+}
+h1{
+    color: #fff;
+    font-size: 1.2rem;
+    margin-left: 37%;
+    margin-top: 10%;
+}
+#redes{
+    width: 40vw;
+    margin-top: 5%;
+    margin-left: 30%;
+}
+#fundo{
+    width: 99vw;
+    margin-left: -2%;
+    float: left;
+    margin-top: -2%;
+}
+#nome{
+    margin-top: -90%;
+    padding: 3.5%;
+    width: 24vh;
+   border-radius: 10px;
+    margin-left: 18%;
+    float: left;
+    font-size: large;
+    background-color: #242C70;
+}
+#figura{
+    float: left;
+    background-color:#B08C00;
+    margin-top: -87.5%;
+    border-radius: 10px;
+    width: 10VW;
+    margin-left: 65%;
+}
+#figurase{
+    float: left;
+    background-color:#B08C00;
+    margin-top: -65%;
+    border-radius: 10px;
+    width: 10VW;
+    margin-left: 65%;
+}
+#senha{
+    margin-top: -68%;
+    padding: 3.5%;
+    width: 24vh;
+   border-radius: 10px;
+    margin-left: 18%;
+    float: left;
+    font-size: large;
+    background-color: #242C70;
+}
+#email{
+    margin-top: -45%;
+    padding: 3.5%;
+    width: 24vh;
+   border-radius: 10px;
+    margin-left: 18%;
+    float: left;
+    font-size: large;
+    background-color: #242C70;
+}
+#figurae{
+    float: left;
+    background-color:#B08C00;
+    margin-top: -43%;
+    border-radius: 10px;
+    width: 10VW;
+    height: 4vh;
+    margin-left: 65%;
+}
+.button{
+    float: left;
+    background-color: #B08C00;
+    border-radius: 10px;
+    border: #fff solid 3px;
+    margin-top: -23%;
+    width: 55vw;
+    height: 5vh;
+    color: #fff;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20%;
+}

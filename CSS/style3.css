@@ -1,0 +1,50 @@
+#fie{
+    float: left;
+    background-color:#B08C00;
+    margin-top: -82%;
+    border-radius: 10px;
+    width: 10VW;
+    margin-left: 65%;
+}
+#se{
+    margin-top: -85%;
+    padding: 3.5%;
+    width: 24vh;
+   border-radius: 10px;
+    margin-left: 18%;
+    float: left;
+    font-size: large;
+    background-color: #242C70;
+}
+#em{
+    margin-top: -60%;
+    padding: 3.5%;
+    width: 24vh;
+   border-radius: 10px;
+    margin-left: 18%;
+    float: left;
+    font-size: large;
+    background-color: #242C70;
+}
+#fe{
+    float: left;
+    background-color:#B08C00;
+    margin-top: -57%;
+    border-radius: 10px;
+    width: 10VW;
+    height: 4vh;
+    margin-left: 65%;
+}
+.but{
+    float: left;
+    background-color: #B08C00;
+    border-radius: 10px;
+    border: #fff solid 3px;
+    margin-top: -30%;
+    width: 55vw;
+    height: 5vh;
+    color: #fff;
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 20%;
+}
